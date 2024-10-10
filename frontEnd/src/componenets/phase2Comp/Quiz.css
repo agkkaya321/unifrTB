@@ -1,0 +1,10 @@
+.cs {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.cs .form-control {
+  width: 150px;
+  margin: 0 10px;
+}

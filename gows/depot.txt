@@ -1,0 +1,7 @@
+{"type":"starter","content":"true"}
+{"type":"data","content":"[[{\"pourqui\":\"b\",\"question\":\"q\",\"qui\":\"a\",\"response\":\"rep\"},{\"pourqui\":\"5\",\"question\":\"2\",\"qui\":\"B\",\"response\":\"rep2\"}]]"}
+
+
+
+to fix:
+-when connect send actuel info / and recive backEnd side
