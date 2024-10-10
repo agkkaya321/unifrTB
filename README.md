@@ -23,6 +23,8 @@ This project is a Bachelor thesis by Ali Gökkaya, developed under the supervisi
 
 - Node.js
 - NPM (Node Package Manager)
+- GOLANG
+- REACTJS
 
 ### Setup Instructions
 
