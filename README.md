@@ -29,5 +29,4 @@ This project is a Bachelor thesis by Ali Gökkaya, developed under the supervisi
 1. Clone the repository:
    ```bash
    git clone https://github.com/agkkaya321/unifrTB.git
-   cd unifrTB
    ```
