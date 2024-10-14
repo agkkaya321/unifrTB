@@ -97,7 +97,7 @@ async function insertNewTitle(title, pid) {
 }
 
 async function insertQuestions(listid, questions) {
-  const insertSql = "l";
+  const insertSql = "INSERT INTO question (listid, q) VALUES (?, ?)";
   try {
     for (const q of questions) {
       await runQuery(insertSql, [listid, q]);
